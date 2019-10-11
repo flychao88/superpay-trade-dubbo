@@ -24,4 +24,5 @@ public class BaseResponseDto implements Serializable {
     public String returnMsg;
 
 
+
 }

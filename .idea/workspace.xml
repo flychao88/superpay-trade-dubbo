@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92423323-ca43-4435-aad0-def674090450" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/dto/base/BaseResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/dto/base/BaseResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/dto/base/BaseResponseDto.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +142,7 @@
       <workItem from="1562461799311" duration="1433000" />
       <workItem from="1565392152873" duration="689000" />
       <workItem from="1565393293084" duration="2737000" />
-      <workItem from="1570757462170" duration="8979000" />
+      <workItem from="1570757462170" duration="9290000" />
     </task>
     <task id="LOCAL-00001" summary="增加基础请求类,主扫，被扫请求类">
       <created>1570785491858</created>
@@ -152,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570785491858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加基础请求类,主扫，被扫请求类">
+      <created>1570787490358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570787490358</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
