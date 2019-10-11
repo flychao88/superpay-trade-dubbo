@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92423323-ca43-4435-aad0-def674090450" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/constants/CurrencyEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/constants/FeePayTypeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/constants/LimitPayEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/constants/PayMethodEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/dto/PayCodeScanRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/dto/PayScanCardRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/dto/base/BasePayRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/dto/base/BaseRequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/superpay-trade-dubbo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/superpay-trade-dubbo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/dto/base/BaseResponseDto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/facade/impl/PayTradeFacadeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/superpay-tradecenter-core/src/main/java/com/tradecenter/core/facade/impl/PayTradeFacadeImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superpay-tradecenter-core/superpay-tradecenter-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/superpay-tradecenter-core/superpay-tradecenter-core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superpay-tradecenter-facade/src/main/java/com/tradecenter/facade/PayTradeFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/superpay-tradecenter-facade/src/main/java/com/tradecenter/facade/PayTradeFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superpay-tradecenter-facade/superpay-tradecenter-facade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/superpay-tradecenter-facade/superpay-tradecenter-facade.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +69,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/superpay-tradecenter-core/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/superpay-tradecenter-core/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -161,8 +143,16 @@
       <workItem from="1562461799311" duration="1433000" />
       <workItem from="1565392152873" duration="689000" />
       <workItem from="1565393293084" duration="2737000" />
-      <workItem from="1570757462170" duration="7334000" />
+      <workItem from="1570757462170" duration="8979000" />
     </task>
+    <task id="LOCAL-00001" summary="增加基础请求类,主扫，被扫请求类">
+      <created>1570785491858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570785491858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,5 +168,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加基础请求类,主扫，被扫请求类" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加基础请求类,主扫，被扫请求类" />
   </component>
 </project>
