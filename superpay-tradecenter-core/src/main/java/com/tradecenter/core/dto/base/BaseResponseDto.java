@@ -22,7 +22,4 @@ public class BaseResponseDto implements Serializable {
      * 响应信息
      */
     public String returnMsg;
-
-
-
 }
