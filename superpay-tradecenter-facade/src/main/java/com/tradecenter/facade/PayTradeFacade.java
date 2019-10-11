@@ -18,4 +18,18 @@ public interface PayTradeFacade {
     public PayResponseDto payRequest(PayRequestDto payRequestDto);
 
 
+    /************************资金类正交易*************************/
+    /**
+     * 刷卡支付--商家扫用户
+     * @param payRequestDto
+     * @return PayResponseDto
+     */
+    PayResponseDto scanCardPay(PayRequestDto payRequestDto);
+
+    /**
+     * 扫码支付--用户扫码
+     * @param reqDto
+     * @return
+     */
+    PayResponseDto codeScanPay(PayRequestDto reqDto);
 }

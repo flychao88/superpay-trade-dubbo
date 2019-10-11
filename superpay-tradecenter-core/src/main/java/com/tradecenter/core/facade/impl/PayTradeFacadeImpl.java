@@ -30,4 +30,14 @@ public class PayTradeFacadeImpl implements PayTradeFacade {
         payResponseDto.setReturnCode("200");
         return payResponseDto;
     }
+
+    @Override
+    public PayResponseDto scanCardPay(PayRequestDto payRequestDto) {
+        return null;
+    }
+
+    @Override
+    public PayResponseDto codeScanPay(PayRequestDto reqDto) {
+        return null;
+    }
 }
